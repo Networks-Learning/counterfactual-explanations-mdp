@@ -6,7 +6,7 @@ horizon=20
 num_of_actions=10
 num_of_states=20
 num_of_cf_samples=1000
-uncertainty_param_list=(0 0.01 0.05 0.1 0.4 0.5 1.0)
+uncertainty_param_list=(0 0.01 0.05 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0)
 n_jobs=4
 param_seeds=10
 
