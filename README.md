@@ -38,9 +38,9 @@ The directory [outputs](outputs/) is used for saving the json outputs produced b
 
 If you use parts of the code in this repository for your own research, please consider citing:
 
-    @article{tsirtsis2021counterfactual,
+    @inproceedings{tsirtsis2021counterfactual,
         title={Counterfactual Explanations in Sequential Decision Making Under Uncertainty},
         author={Tsirtsis, Stratis and De, Abir and Gomez-Rodriguez, Manuel},
-        journal={arXiv preprint arXiv:2107.02776},
+        booktitle={Advances in Neural Information Processing Systems},
         year={2021}
     }
