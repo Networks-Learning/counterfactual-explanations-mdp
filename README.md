@@ -1,6 +1,6 @@
 # Counterfactual Explanations in Sequential Decision Making Under Uncertainty
 
-This repository contains the code used in the paper [*Counterfactual Explanations in Sequential Decision Making Under Uncertainty*](https://arxiv.org/abs/2107.02776), to appear at NeurIPS 2021.
+This repository contains the code used in the paper [*Counterfactual Explanations in Sequential Decision Making Under Uncertainty*](https://arxiv.org/abs/2107.02776), published at NeurIPS 2021.
 
 ## Dependencies
 
